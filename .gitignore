@@ -1,6 +1,9 @@
 # Adding config.py file.
 config.js
 
+# Ignore Homework
+folder_to_ignore / week_work
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
